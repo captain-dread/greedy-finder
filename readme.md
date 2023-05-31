@@ -5,6 +5,8 @@ In order to use Greedy Finder, you will need to log your puzzle pirates messages
 - You **don't** need to reload the log file every time, just click on "Find Greedy Hits" to get the latest greedy hits.
 - This is completely withing the game's TOS. You can read more about it [here](https://yppedia.puzzlepirates.com/Official:Third_Party_Software).
 
+## Installation
+
 ### MacOS/Unix
 Under `/dist` folder, there is a `greedy-finder` executable file. You can run it directly which would be the same as running the script, but without the need to install python3 or the libraries it uses.
 
@@ -32,6 +34,6 @@ pip3 install PySimpleGUI
 Once you have Python and the required libraries installed, you can run the script by typing the following in your terminal:
 
 ```bash
-python3 greedy-finder.py
+python3 greedy-gui.py
 ```
 
